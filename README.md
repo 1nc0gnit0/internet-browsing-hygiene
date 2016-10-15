@@ -1,4 +1,5 @@
 # internet-browsing-hygiene
+Internet Browsing Hygiene v 1.01
 ACAP as clean as possible, browse the web
 
 Use Chrome (or Firefox).  They can sandbox sessions preventing information leaks.
