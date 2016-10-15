@@ -6,6 +6,7 @@ Update, patch constantly.
 Sandbox all sessions.   
 Cookies, prevent mixing, dumping.    
 Frequent sites, set as new profile or person and do nothing else in these windows.    
-Block third party.    
+Block third party cookies.    
 On exit, clean cookies.    
 Quick search, incognito.    
+Quit browser when done.
