@@ -1,7 +1,7 @@
 # internet-browsing-hygiene
 ACAP as clean as possible, browse the web
 
-Use Chrome (or Firefox).
+Use Chrome (or Firefox).    
 Update, patch constantly.
 Sandbox all sessions.
 Cookies, prevent mixing, dumping.
